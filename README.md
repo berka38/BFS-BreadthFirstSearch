@@ -43,6 +43,8 @@ Kod otomatik şekilde sizin haritanızı 2 lik sayı dizinisine getirip çıkı�
 
 BFS (Breadth-First Search) algoritması, geniş öncelikli aramayı temsil eder. Amacı, giriş ve çıkış arasındaki en kısa mesafeyi bulmak için kullanılan bir algoritma yöntemidir.<br>
 
+BFS algoritmasında ilk giren ilk çıkar mantığı ile ilerlemekteyiz bir sonraki kümeye geçildiğinde ilk küme çıkartılır örneğin üste bulunan gif teki gibi <br>
+
 BFS algoritması, aslında DFS (Depth-First Search) algoritması gibi çalışır. Ancak, BFS algoritmasını anlamak için önce DFS algoritmasının mantığını anlamak daha iyi olabilir.<br>
 
 DFS algoritması, en baştan başlayarak en derinlere doğru ilerlerken, BFS algoritması etrafındaki tüm komşu değerleri alır ve bu şekilde devam eder.<br>
@@ -51,3 +53,8 @@ DFS algoritması, en baştan başlayarak en derinlere doğru ilerlerken, BFS alg
 
 Mantığınıda anladığımıza göre artık kodu kullanmaya başlıyabiliriz, iyi eğlenceler.:)
 
+Daha detaylı bilgi için
+[![Mail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white)](https://gladyotr123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gladbey)
+[![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=github&logoColor=white)](https://github.com/berka38)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berat-karaca-9b770223b/) 
