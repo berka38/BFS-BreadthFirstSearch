@@ -47,7 +47,7 @@ BFS algoritmasında ilk giren ilk çıkar mantığı ile ilerlemekteyiz bir sonr
 
 BFS algoritması, aslında DFS (Depth-First Search) algoritması gibi çalışır. Ancak, BFS algoritmasını anlamak için önce DFS algoritmasının mantığını anlamak daha iyi olabilir.<br>
 
-DFS algoritması, en baştan başlayarak en derinlere doğru ilerlerken, BFS algoritması etrafındaki tüm komşu değerleri alır ve bu şekilde devam eder.<br>
+DFS algoritması, en baştan başlayarak en derinlere doğru iler ve algoritayı en başa alır ve tekrar yapar, BFS algoritması etrafındaki tüm komşu değerleri alır ve bu şekilde devam eder.<br>
 
 ![1 piWG5HLRklVNN2Af8GSZCQ](https://github.com/berka38/BFS-BreadthFirstSearch/assets/56080136/79426c40-b98f-47e3-b5e4-6908bd8d8ab5)<br>
 
