@@ -5,7 +5,7 @@ Bu kod Breadth First Search(BFS) yani Geniş Öncelikli Arama algoritması kulla
 
 BFS (Breadth-First Search) algoritması hakkında en sonda bilgi bulabilirsiniz.<br>
 
-## Algoritma yazılımı kurulumu ve çalıştırılması
+## Algoritma yazılımının kurulumu ve çalıştırılması
 
 ### Kurulum
 - İlk önce algoritmanın bulunduğu dizine gidiyorsunuz.
